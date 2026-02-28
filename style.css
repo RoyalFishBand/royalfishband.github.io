@@ -50,3 +50,19 @@
 				margin-left:50px;
 			}
 			
+			table{
+				float:right;
+				margin:20px;
+			}
+			
+			td {
+				border:1px solid white;
+				padding:10px;
+			}
+			
+			.title{
+				color:white;
+				background-color:#00197a;
+			}
+			
+						
