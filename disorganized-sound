@@ -1,0 +1,63 @@
+<HTML>
+    <head>
+		<link rel="icon" type="image/x-icon" href="https://    royalfishband.github.io/favicon.png">
+		<link rel="stylesheet" href="https://royalfishband.github.io/style.css">
+	</head>
+    <body>
+	        <div class="main">
+            <br>
+            <a href="https://royalfishband.github.io/"><img src="https://royalfishband.github.io/logo.png"></a>
+            <h1>Royal Fish (Album)</h1>
+					<!--Infobox-->
+					<table width="300px">
+						<tr class="title">
+							<td>
+								<h2 style="margin-top:20px; text-align:center; margin-left:auto; margin-right:auto;">Royal Fish</h2>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<img src="https://royalfishband.github.io/images/rfcover.png" width="300spx">
+							</td>
+						</tr>
+						<tr>
+							<td><strong>Released: </strong> August 28th, 2024</td>
+						</tr>
+						<tr>
+							<td><strong>Genres: </strong> Rock, 
+							Psychedelic Rock, Indie Rock, 
+              Folk Rock, Jazz, Avant-Garde, 
+              Experimental, Folk, Folk Rock, 
+              Hardcore Punk, Heavy Metal,
+              Hard Rock, Post-Industrial, A Capella,
+              Electronic, Lo-Fi, Synthpop</td>
+						<tr>
+							<td><strong>Run Time: </strong> 1:12:46</td>
+						</tr>
+					</table>
+
+					<p><em>Disorganized Sound</em> is the band's ambitious collaborative album, created during the Spring semester of 2026 and released on May 24th, 2026. This album was created because of the absence of <a href="https://royalfishband.github.io/ellie">Major Ellie.</a></p>
+
+					<h2>Album Cover</h2>
+					<p>The album cover was created on a standard white posterboard cut into a square, with a section marked off for the title, which was later added digitally. Everyone who is featured on the album was invited to draw something on this posterboard. Many of the drawings were made by <a href="https://royalfishband.github.io/emily">Emily</a> and <a href="https://royalfishband.github.io/dan">Dan</a>, who each drew a picture for every song they were involved in creating.</p>
+<!--Tracklist-->
+					<br>
+					<ol style="text-align:left; margin-left:50px;list-style:inside;"><strong>Tracklist</strong>
+					<br>
+					<br>
+					<li><a href="https://royalfishband.github.io/song/forest-of-noise">Forest of Noise</a></li>
+					<li><a href="https://royalfishband.github.io/song/how-long">How Long</a></li>
+					<li><a href="https://royalfishband.github.io/song/drowning-in-my-senses">Drowning in My Senses</a></li>
+					<li><a href="https://royalfishband.github.io/song/again-again-again">Again Again Again</a></li>
+					<li><a href="https://royalfishband.github.io/song/missing-links">Missing Links</a></li>
+					<li><a href="https://royalfishband.github.io/song/autumn-leaves">Autumn Leaves</a></li>
+					<li><a href="https://royalfishband.github.io/song/kathy-s-ride">Kathy's Ride</a></li>
+					<li><a href="https://royalfishband.github.io/song/fire-in-the-valley">Fire in the Valley</a></li>
+					<li><a href="https://royalfishband.github.io/song/farewell-requiem">Farewell Requiem</a></li>
+					<li><a href="https://royalfishband.github.io/song/it-s-just-like-you">It's Just Like You</a></li>
+					<li><a href="https://royalfishband.github.io/song/royal-fish">Royal Fish</a></li>
+					</ol>
+					<h2>History</h2>
+					<p>Emily was the first to conceptualize the album, and had the idea for the album cover before any of the songs. The name of the album was inspired by the band Black Sabbath's song, "Black Sabbath," on their first album, Black Sabbath. This gave rise to the idea of "Royal Fish.".</p>
+			</div>
+</HTML>
